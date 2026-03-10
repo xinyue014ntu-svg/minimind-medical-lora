@@ -21,7 +21,7 @@
 
 ## 🚀 快速开始 (Quick Start)
 
-### 1. 准备环境
+###  准备环境
 ```bash
 git clone [https://github.com/xinyue014ntu-svg/minimind-medical-lora.git](https://github.com/xinyue014ntu-svg/minimind-medical-lora.git)
 cd minimind-medical-lora
